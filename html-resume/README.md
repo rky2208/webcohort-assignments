@@ -5,7 +5,7 @@ The project focuses on clean structure, readability, and adherence to modern HTM
 
 ## Preview
 
-![Resume Preview](preview.png)
+![Resume Preview](assets/preview.png)
 
 ## Files
 
