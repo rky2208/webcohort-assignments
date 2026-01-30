@@ -32,3 +32,17 @@ Open the index.html file in any web browser to view the resume.
 3. Extract the downloaded ZIP file.
 4. Open the html-resume folder.
 5. Double-click index.html to view the resume in your browser.
+
+## Learnings
+
+While building this HTML resume, I learned:
+
+- How to structure a webpage using basic HTML tags
+- The purpose of `<html>`, `<head>`, and `<body>` tags
+- How to use semantic HTML tags like `<header>`, `<main>`, `<section>`, and `<footer>`
+- How heading tags (`<h1>` to `<h3>`) help organize content
+- How to use `<p>`, `<ul>`, and `<li>` for text and lists
+- How to create tables using `<table>`, `<tr>`, `<th>`, and `<td>`
+- How to add links using the `<a>` tag
+- How to keep CSS minimal while maintaining readability
+- How to write clean and readable HTML code
